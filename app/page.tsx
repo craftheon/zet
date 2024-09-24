@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      Zet
+      Zet2
     </main>
   )
 }
