@@ -3,7 +3,7 @@
   "short_name": "Zet",
   "icons": [
     {
-      "src": "/pwa/favicon.ico",
+      "src": "/favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     }
